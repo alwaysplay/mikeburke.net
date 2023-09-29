@@ -5,12 +5,12 @@ body {
 }
 .container {
     background: #fff;
-    width: 700px;
-    height: 100vh;
+    max-width: 700px;
+    min-height: 100vh;
     padding: 20px 20px 100px 20px;    
 }
 .color_bar {
-    width: 740px;
+    max-width: 740px;
     background-color: #143c80;
     height: 15px;
 }
