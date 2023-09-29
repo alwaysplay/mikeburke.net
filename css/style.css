@@ -1,0 +1,16 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(228, 228, 228);
+}
+.container {
+    background: #fff;
+    width: 700px;
+    height: 100vh;
+    padding: 20px 20px 100px 20px;    
+}
+.color_bar {
+    width: 740px;
+    background-color: #143c80;
+    height: 15px;
+}
