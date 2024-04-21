@@ -2,6 +2,7 @@ body {
     padding: 0px;
     margin: 0px;
     background-color: rgb(228, 228, 228);
+    width: 100%;
 }
 .container {
     background: #fff;
@@ -10,7 +11,6 @@ body {
     padding: 20px 20px 100px 20px;    
 }
 .color_bar {
-    max-width: 740px;
     background-color: #143c80;
     height: 15px;
 }
